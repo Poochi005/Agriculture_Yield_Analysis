@@ -1,0 +1,13 @@
+Year,State,Crop,Area_Hectares,Production_Tonnes,Rainfall_mm,Fertilizer_kg_per_hectare,Yield_Tonnes_per_Hectare
+2022,Tamil Nadu,Rice,1200,4200,950,85,3.5
+2022,Tamil Nadu,Cotton,800,1600,700,65,2.0
+2022,Karnataka,Rice,1500,4800,1100,90,3.2
+2022,Karnataka,Maize,1000,3500,800,75,3.5
+2023,Tamil Nadu,Rice,1300,4680,1000,88,3.6
+2023,Tamil Nadu,Cotton,850,1785,750,68,2.1
+2023,Karnataka,Rice,1550,5115,1150,92,3.3
+2023,Karnataka,Maize,1100,3960,850,78,3.6
+2024,Tamil Nadu,Rice,1400,5180,1050,90,3.7
+2024,Tamil Nadu,Cotton,900,1980,780,70,2.2
+2024,Karnataka,Rice,1600,5440,1200,95,3.4
+2024,Karnataka,Maize,1200,4440,900,80,3.7
